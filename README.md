@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sanusi Taiwo!
 
-🚀 **Aspiring Machine Learning Engineer | Python Developer | AI Innovator**
+🚀 **Machine Learning Engineer | Python Developer | AI Innovator**
 
 I am passionate about using technology to solve real-world problems, especially in the fields of machine learning and artificial intelligence. With experience in building tools like stock scanners and prediction engines, I strive to bridge the gap between data, AI, and impactful applications.
 
